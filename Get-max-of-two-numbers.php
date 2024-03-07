@@ -6,7 +6,6 @@
   </head>
   <body>
 
-
     <?php
        function getMax($num1, $num2){
          if($num1 > $num2){
@@ -17,12 +16,6 @@
        }
 
        echo getMax(300, 90);
-
     ?>
-
-
-
-
-
   </body>
 </html>
