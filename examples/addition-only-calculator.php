@@ -6,8 +6,6 @@
   </head>
   <body>
 
-
-
     <form action="caculator.php" method="get">
         <input type="number" name="num1">
         <br>
