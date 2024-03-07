@@ -29,12 +29,6 @@
      } else {
        echo "Invalid Operator";
      }
-
      ?>
-
-
-
-
-
   </body>
 </html>
